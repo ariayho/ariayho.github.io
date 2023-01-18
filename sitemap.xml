@@ -3,22 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ariayho.github.io/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ariayho.github.io/p/test-chinese/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <loc>https://ariayho.github.io/p/2023bangkok/</loc>
+    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ariayho.github.io/categories/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ariayho.github.io/post/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ariayho.github.io/categories/test/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ariayho.github.io/categories/%E6%97%85%E9%81%8A%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ariayho.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
@@ -34,5 +31,7 @@
     <loc>https://ariayho.github.io/search/</loc>
   </url><url>
     <loc>https://ariayho.github.io/tags/</loc>
+  </url><url>
+    <loc>https://ariayho.github.io/categories/test/</loc>
   </url>
 </urlset>
